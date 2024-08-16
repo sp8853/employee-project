@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<class>
+    <student>
+        <id>1</id>
+        <first_name>rohan</first_name>
+        <last_name>biswal</last_name>
+        <subject>maths</subject>
+    </student>
+    <student>
+        <id>2</id>
+        <first_name>shubam</first_name>
+        <last_name>pandey</last_name>
+        <subject>english</subject>
+    </student>
+    <student>
+        <id>3</id>
+        <first_name>krishna</first_name>
+        <last_name>pandey</last_name>
+        <subject>java</subject>
+    </student>
+    <student>
+        <id>4</id>
+        <first_name>suraj</first_name>
+        <last_name>biswal</last_name>
+        <subject>python</subject>
+    </student>
+    <student>
+        <id>5</id>
+        <first_name>akash</first_name>
+        <last_name>kumar</last_name>
+        <subject>c++</subject>
+    </student>
+</class>
